@@ -4,18 +4,34 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=swappy-2003.swappy-2003) [![Github](https://img.shields.io/github/followers/swappy-2003?label=Followers&logo=Github)](https://github.com/swappy-2003)
 
+## 🎓 I am a Bachelor of Information Technology
+ currently in my second year
 
-<!--
-**swappy-2003/swappy-2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ## 📫 Reach me by email 📧: 
+<dwivediswapnil.123@gmail.com>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+
+
+## :trophy: My Github Stats: 
+
+<div>
+ <a href="https://github-readme-stats.vercel.app/api?username=swappy-2003&&show_icons=true&title_color=7deeff&icon_color=56cadb&text_color=d9faff&bg_color=023038">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=swappy-2003&&show_icons=true&title_color=7deeff&icon_color=56cadb&text_color=d9faff&bg_color=023038" style="vertical-align:centre; margin:4px" />
+</a>
+ 
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=swappy-2003&title_color=7deeff&icon_color=56cadb&text_color=d9faff&bg_color=023038">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swappy-2003&title_color=7deeff&icon_color=56cadb&text_color=d9faff&bg_color=023038" style="vertical-align:centre; margin:4px" />
+</a>
+</div>
+
+
+
+
+
