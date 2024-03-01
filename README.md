@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Swapnil!
+
+
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=swappy-2003.swappy-2003) [![Github](https://img.shields.io/github/followers/swappy-2003?label=Followers&logo=Github)](https://github.com/swappy-2003)
 
 
