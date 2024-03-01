@@ -1,5 +1,5 @@
 ### Hi there 👋
-![visitors](https://visitor-badge.laobi.icu/badge?Swappy-2003.Swappy-2003)
+![visitors](https://visitor-badge.laobi.icu/badge?Swappy-2003.swappy-2003)
 <!--
 **swappy-2003/swappy-2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
