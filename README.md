@@ -1,5 +1,5 @@
 ### Hi there 👋
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Swappy2003.swappy2003)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=swappy-2003.swappy-2003) [![Github](https://img.shields.io/github/followers/swappy-2003?label=Followers&logo=Github)](https://github.com/swappy-2003)
 
 
 <!--
