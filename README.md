@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Swappy2003.swappy2003)
-![](https://visitor-badge.laobi.icu/badge?page_id=juliaszymanska.juliaszymanska)
+
 
 <!--
 **swappy-2003/swappy-2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
