@@ -45,6 +45,8 @@
 </a>
 </div>
 
+<br />
+
 
 <img align="right" width="400" alt="coding gif" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmFxM2RzdWxvenA1eGY5ZXU2dWUyYjZmcmN4cTQ0MGNuZWlueHkwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
