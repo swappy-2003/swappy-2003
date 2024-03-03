@@ -4,6 +4,8 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=swappy-2003.swappy-2003) [![Github](https://img.shields.io/github/followers/swappy-2003?label=Followers&logo=Github)](https://github.com/swappy-2003)
 
+<img align="right" width="400" alt="coding gif" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmFxM2RzdWxvenA1eGY5ZXU2dWUyYjZmcmN4cTQ0MGNuZWlueHkwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+
 
 ## 🎓 I am a Bachelor of Information Technology
  currently in my second year
@@ -48,7 +50,6 @@
 <br />
 
 
-<img align="right" width="400" alt="coding gif" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmFxM2RzdWxvenA1eGY5ZXU2dWUyYjZmcmN4cTQ0MGNuZWlueHkwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
 
