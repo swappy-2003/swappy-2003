@@ -17,7 +17,7 @@
 <dwivediswapnil.123@gmail.com>
 
 
-## 📚 At the moment I am learing
+## 📚 At the moment I am learning
 - [Nodejs]((https://nodejs.org/))
 - [React]((https://react.dev/))
 - [tailwind](https://tailwindcss.com/)
