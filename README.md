@@ -11,10 +11,14 @@
 
 
 ## 🎓 I am a Bachelor of Information Technology
- currently in my second year
+In my final Year 
+
 
  ## 📫 Reach me by email 📧: 
 <dwivediswapnil.123@gmail.com>
+
+## 📫 Reach me by Linkedin:
+- [Linkedin](www.linkedin.com/in/swapnilkumar-dwivedi-411b261b8)
 
 
 ## 📚 At the moment I am learning
