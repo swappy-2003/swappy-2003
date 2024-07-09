@@ -21,7 +21,7 @@
 - [Nodejs]((https://nodejs.org/))
 - [React]((https://react.dev/))
 - [tailwind](https://tailwindcss.com/)
--[nextjs](nextjs.com)
+- [nextjs]((https://nextjs.org/))
 
 
 
