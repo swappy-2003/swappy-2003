@@ -18,10 +18,10 @@
 
 
 ## 📚 At the moment I am learning
-- [Nodejs]((https://nodejs.org/))
-- [React]((https://react.dev/))
+- [Nodejs](https://nodejs.org/)
+- [React](https://react.dev/)
 - [tailwind](https://tailwindcss.com/)
-- [nextjs]((https://nextjs.org/))
+- [nextjs](https://nextjs.org/)
 
 
 
