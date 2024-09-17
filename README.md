@@ -38,6 +38,7 @@ In my final Year
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/swappy-2003/swappy-2003/output/github-contribution-grid-snake.svg" />
+  ![snake gif](https://github.com/swappy-2003/swappy-2003/blob/output/github-contribution-grid-snake.gif)
   
   <br/><br/><br/>
 </div
