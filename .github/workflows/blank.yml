@@ -6,27 +6,24 @@ on:
     # Every 6 hours
     - cron: "0 */6 * * *"
 
-  # This allows the Action to be run manually from the Actions tab.
+  # Allows the Action to be run manually from the Actions tab.
   workflow_dispatch:
 
 # The sequence of runs in this workflow.
 jobs:
-  # This workflow contains a single job called "build"
   build:
-    # The type of runner that the job will run on.
+    # Use the latest runner for better compatibility.
     runs-on: ubuntu-latest
 
-    # Steps represent a sequence of tasks that will be executed as part of the job.
     steps:
-      # Checks out your repository under $GITHUB_WORKSPACE, so your job can access it.
-      - uses: actions/checkout@v2
+      # Use actions/checkout@v3 to avoid Node.js deprecation issues.
+      - uses: actions/checkout@v3
 
       # Generates the snake
       - uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: swappy-2003
-          # These next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
+          github_user_name: swappy-2003 # Replace with your GitHub username
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
 
