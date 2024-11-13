@@ -5,7 +5,10 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=swappy-2003.swappy-2003) [![Github](https://img.shields.io/github/followers/swappy-2003?label=Followers&logo=Github)](https://github.com/swappy-2003)
 
+<div style=zindex=100>
+ 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Im+a+tech+Enthusiatst;Driven+by+the++learning;Eager+to+Collabrate)](https://git.io/typing-svg)
+</div>
 
 <img align="right" width="400" alt="coding gif" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmFxM2RzdWxvenA1eGY5ZXU2dWUyYjZmcmN4cTQ0MGNuZWlueHkwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
